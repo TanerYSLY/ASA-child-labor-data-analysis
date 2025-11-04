@@ -1,3 +1,8 @@
+> **Ownership & Contributions**
+> This is a collaborative repository. The project was built end-to-end primarily by **Taner Yeşilay**:
+> **data acquisition & cleaning → EDA & visualization → feature engineering → modeling & evaluation → reporting**.
+> Contributors provide documentation, reporting, and minor fixes via PRs.
+
 # ASA Child Labor Data Analysis
 
 This repository provides an end-to-end analysis of indicators related to child labor using Jupyter Notebooks. It covers exploratory data analysis (EDA), regression modeling, and clustering. All datasets are stored in the repository root for convenience.
