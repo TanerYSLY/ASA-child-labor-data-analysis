@@ -1,6 +1,7 @@
 > **Ownership & Contributions**
-> This is a collaborative repository. The project was built end-to-end primarily by **Taner Yeşilay**:
-> **data acquisition & cleaning → EDA & visualization → feature engineering → modeling & evaluation → reporting**.
+> This is a collaborative repository regarding the American Statistical Association's International Dataquest 2025.
+> The project was built largely by **Taner Yeşilay** : **data acquisition & cleaning → EDA & visualization → feature engineering → modeling & evaluation**.
+> Team member Ahmed Önder Akkaya carried out the desing and presentation. 
 > Contributors provide documentation, reporting, and minor fixes via PRs.
 
 # ASA Child Labor Data Analysis
