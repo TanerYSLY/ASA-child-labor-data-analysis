@@ -1,3 +1,8 @@
+> **Ownership & Contributions**
+> This is a collaborative repository. The project was built end-to-end primarily by **Taner Yeşilay**:
+> **data acquisition & cleaning → EDA & visualization → feature engineering → modeling & evaluation → reporting**.
+> Contributors provide documentation, reporting, and minor fixes via PRs.
+
 # ASA Child Labor Data Analysis
 
 ##Introduction
