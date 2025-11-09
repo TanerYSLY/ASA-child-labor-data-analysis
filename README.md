@@ -1,6 +1,19 @@
+> **Ownership & Contributions**
+> This is a collaborative repository regarding the American Statistical Association's International Dataquest 2025.
+> 
+> The project was built largely by **Taner Yeşilay** : **data acquisition & cleaning → EDA & visualization → feature engineering → modeling & evaluation**.
+> 
+> Team member **Ahmed Önder Akkaya carried out the desing and presentation**.
+> 
+> Contributors provide documentation, reporting, and minor fixes via PRs.
+
 # ASA Child Labor Data Analysis
 
+## Introduction
+
 This repository provides an end-to-end analysis of indicators related to child labor using Jupyter Notebooks. It covers exploratory data analysis (EDA), regression modeling, and clustering. All datasets are stored in the repository root for convenience.
+
+Please check out our official presentation for this project on YouTube, presented by our team member Ahmed Önder Akkaya: https://www.youtube.com/watch?v=-r9DeI_vplI
 
 ## Table of Contents
 
@@ -156,11 +169,4 @@ Contributions are welcome:
 
 Use Issues for bug reports and feature requests.
 
-## License
-
-No license file is present yet. Consider adding a `LICENSE` (e.g., MIT, Apache-2.0) to clarify usage terms.
-
-## Contact
-
-For questions or feedback, please open an Issue or contact the repository owner.
 
