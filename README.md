@@ -1,12 +1,3 @@
-> **Ownership & Contributions**
-> This is a collaborative repository regarding the American Statistical Association's International Dataquest 2025.
-> 
-> The project was built largely by **Taner Yeşilay** : **data acquisition & cleaning → EDA & visualization → feature engineering → modeling & evaluation**.
-> 
-> Team member **Ahmed Önder Akkaya carried out the desing and presentation**.
-> 
-> Contributors provide documentation, reporting, and minor fixes via PRs.
-
 # ASA Child Labor Data Analysis
 
 ## Introduction
@@ -15,8 +6,19 @@ This repository provides an end-to-end analysis of indicators related to child l
 
 Please check out our official presentation for this project on YouTube, presented by our team member Ahmed Önder Akkaya: https://www.youtube.com/watch?v=-r9DeI_vplI
 
+## Awards
+
+This project won the **American Statistical Association's DataQuest 2025** Turkish regional competition:
+
+- 🥇 **1st Place** — Statistical Insight
+- 🥈 **2nd Place** — Data Visualization
+- 🥉 **3rd Place** — Consideration of Ethics
+
+*The international leg of the competition is currently ongoing, as of December 2025*
+
 ## Table of Contents
 
+- Awards
 - Overview
 - Datasets
 - Notebook Map
@@ -169,4 +171,11 @@ Contributions are welcome:
 
 Use Issues for bug reports and feature requests.
 
-
+> **Ownership & Contributions**
+> This is a collaborative repository regarding the American Statistical Association's International DataQuest 2025.
+> 
+> The project was built largely by **Taner Yeşilay** : **data acquisition & cleaning → EDA & visualization → feature engineering → modeling & evaluation**.
+> 
+> Team member **Ahmed Önder Akkaya carried out the desing and presentation**.
+> 
+> Contributors provide documentation, reporting, and minor fixes via PRs.
