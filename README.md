@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository showcases a comprehensive statistical analysis of child labor indicators by **Quanta Quartet**, a winning team in the American Statistical Association's DataQuest 2025 competition. The project demonstrates advanced data science techniques including exploratory data analysis (EDA), regression modeling, and clustering applied to a global child labor dataset.
+This repository showcases a comprehensive statistical analysis of child labor indicators by **Quanta Quartet**, a winning team in the American Statistical Association's International DataQuest 2025 competition. The project demonstrates advanced data science techniques including exploratory data analysis (EDA), regression modeling, and clustering applied to a global child labor dataset.
 
 Through rigorous statistical methodology, insightful visualizations, and ethical considerations, we aim to uncover patterns and relationships in child labor dynamics across different regions and economic conditions.
 
