@@ -1,10 +1,12 @@
-# ASA Child Labor Data Analysis
+# ASA Child Labor Data Analysis | Quanta Quartet
 
 ## Introduction
 
-This repository provides an end-to-end analysis of indicators related to child labor using Jupyter Notebooks. It covers exploratory data analysis (EDA), regression modeling, and clustering. All datasets are stored in the repository root for convenience.
+This repository showcases a comprehensive statistical analysis of child labor indicators by **Quanta Quartet**, a winning team in the American Statistical Association's DataQuest 2025 competition. The project demonstrates advanced data science techniques including exploratory data analysis (EDA), regression modeling, and clustering applied to a global child labor dataset.
 
-Please check out our official presentation for this project on YouTube, presented by our team member Ahmed Önder Akkaya: https://www.youtube.com/watch?v=-r9DeI_vplI
+Through rigorous statistical methodology, insightful visualizations, and ethical considerations, we aim to uncover patterns and relationships in child labor dynamics across different regions and economic conditions.
+
+**Official Presentation:** https://www.youtube.com/watch?v=-r9DeI_vplI (presented by Ahmed Önder Akkaya)
 
 ## Awards
 
@@ -14,7 +16,7 @@ This project won the **American Statistical Association's DataQuest 2025** Turki
 - 🥈 **2nd Place** — Data Visualization
 - 🥉 **3rd Place** — Consideration of Ethics
 
-*The international leg of the competition is currently ongoing, as of December 2025*
+*The international leg of the competition is currently ongoing, as of December 2025.*
 
 ## Table of Contents
 
@@ -69,16 +71,31 @@ Each notebook can run independently, but following the order above helps with co
 
 ```
 ASA-child-labor-data-analysis/
-├─ 01_04_combined_analysis.ipynb
-├─ 02_regression.ipynb
-├─ 03_reg2.ipynb
-├─ 03_reg3.ipynb
-├─ 04_Clustering.ipynb
-├─ analyze data.csv
-├─ asa_under14_dataset.csv
-├─ clustering_data.csv
-├─ QuantaQuartet-Sunum.pdf
-└─ video explaination.pdf
+├─ src/
+│  ├─ 01_04_combined_analysis.ipynb    (EDA & visualizations)
+│  ├─ 02_regression.ipynb               (Regression modeling)
+│  ├─ 03_reg2.ipynb                     (Regression experiments)
+│  ├─ 03_reg3.ipynb                     (Advanced regression)
+│  └─ 04_Clustering.ipynb               (Clustering analysis)
+├─ Datasets/
+│  ├─ analyze data.csv                  (Main EDA dataset)
+│  ├─ asa_under14_dataset.csv           (Under-14 metrics subset)
+│  └─ clustering_data.csv               (Preprocessed clustering data)
+├─ Figures/
+│  ├─ figure_02_target_distributions.png
+│  ├─ figure_03_gdp_vs_child_employment.png
+│  ├─ figure_04_regional_income_comparison.png
+│  ├─ figure_05_corrected_temporal_trends.png
+│  ├─ figure_06_latest_year_world_map.html
+│  ├─ figure_detailed_temporal_analysis.png
+│  ├─ figure_regional_temporal_analysis.png
+│  └─ figure_regression_assumptions.png
+├─ Presentation/
+│  ├─ QuantaQuartet-Sunum.pdf
+│  ├─ merged-quantaquartet.pdf
+│  └─ video explaination.pdf
+├─ requirements.txt
+└─ README.md
 ```
 
 ## Quickstart (Windows PowerShell)
@@ -171,11 +188,26 @@ Contributions are welcome:
 
 Use Issues for bug reports and feature requests.
 
-> **Ownership & Contributions**
-> This is a collaborative repository regarding the American Statistical Association's International DataQuest 2025.
-> 
-> The project was built largely by **Taner Yeşilay** : **data acquisition & cleaning → EDA & visualization → feature engineering → modeling & evaluation**.
-> 
-> Team member **Ahmed Önder Akkaya carried out the desing, presentation, GitHub management and organization**.
-> 
-> Contributors provide documentation, reporting, and minor fixes via PRs.
+## Team
+
+**Quanta Quartet** is a data science team that achieved recognition at the ASA DataQuest 2025 competition through rigorous statistical analysis and ethical consideration of sensitive topics.
+
+### Team Members
+
+- **Ahmed Önder Akkaya** — Design, Presentation, and GitHub Management
+- **Atasagun Yılmaz** — Team Management
+- **Taner Yeşilay** — Data Acquisition, Cleaning, EDA, Feature Engineering, and Modeling
+- **Tuana Çevcive** — Supporting Analysis and Visualization, Presentation
+
+### Contact & Resources
+
+For questions or collaboration inquiries, please reach out through the repository's Issues section or contact the team leads.
+
+**Key Resources:**
+- [YouTube Presentation](https://www.youtube.com/watch?v=-r9DeI_vplI) — Full project walkthrough
+- [Main Presentation Slides](Presentation/QuantaQuartet-Sunum.pdf)
+- [Merged Analysis Document](Presentation/merged-quantaquartet.pdf)
+
+---
+
+*This project prioritizes ethical considerations when working with sensitive data on child labor. All insights and visualizations should be interpreted responsibly and in their proper social context.*
