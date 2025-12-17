@@ -176,6 +176,6 @@ Use Issues for bug reports and feature requests.
 > 
 > The project was built largely by **Taner Yeşilay** : **data acquisition & cleaning → EDA & visualization → feature engineering → modeling & evaluation**.
 > 
-> Team member **Ahmed Önder Akkaya carried out the desing and presentation**.
+> Team member **Ahmed Önder Akkaya carried out the desing, presentation, GitHub management and organization**.
 > 
 > Contributors provide documentation, reporting, and minor fixes via PRs.
