@@ -196,7 +196,7 @@ Use Issues for bug reports and feature requests.
 
 - **Ahmed Önder Akkaya** — Design, Presentation, and GitHub Management
 - **Atasagun Yılmaz** — Team Management
-- **Taner Yeşilay** — Data Acquisition, Cleaning, EDA, Feature Engineering, and Modeling
+- **Taner Yeşilay** — Lead Data Analysis & Modeling (End-to-End Data Pipeline, Visualization, Statistical Inference, and Insight Generation)
 - **Tuana Çevcive** — Supporting Analysis and Visualization, Presentation
 
 ### Contact & Resources
